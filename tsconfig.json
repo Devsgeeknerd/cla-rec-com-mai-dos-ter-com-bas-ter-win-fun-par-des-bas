@@ -25,5 +25,6 @@
     "noImplicitThis": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true
-  }
+  },
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"]
 }
