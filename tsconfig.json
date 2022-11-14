@@ -19,6 +19,7 @@
     "removeComments": true,
     "isolatedModules": true,
     "incremental": true,
-    "noEmit": true
+    "noEmit": true,
+    "noImplicitAny": true
   }
 }
