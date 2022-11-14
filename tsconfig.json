@@ -18,6 +18,7 @@
     "resolveJsonModule": true,
     "removeComments": true,
     "isolatedModules": true,
-    "incremental": true
+    "incremental": true,
+    "noEmit": true
   }
 }
