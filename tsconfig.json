@@ -20,6 +20,7 @@
     "isolatedModules": true,
     "incremental": true,
     "noEmit": true,
-    "noImplicitAny": true
+    "noImplicitAny": true,
+    "noImplicitReturns": true
   }
 }
