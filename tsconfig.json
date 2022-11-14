@@ -8,6 +8,7 @@
     "allowJs": true,
     "strict": true,
     "strictBindCallApply": true,
-    "strictFunctionTypes": true
+    "strictFunctionTypes": true,
+    "strictNullChecks": true
   }
 }
