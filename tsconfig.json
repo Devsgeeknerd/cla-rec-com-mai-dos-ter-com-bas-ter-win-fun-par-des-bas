@@ -17,6 +17,7 @@
     "exactOptionalPropertyTypes": true,
     "resolveJsonModule": true,
     "removeComments": true,
-    "isolatedModules": true
+    "isolatedModules": true,
+    "incremental": true
   }
 }
