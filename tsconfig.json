@@ -5,6 +5,7 @@
     "module": "ESNext",
     "moduleResolution": "node",
     "jsx": "preserve",
-    "allowJs": true
+    "allowJs": true,
+    "strict": true
   }
 }
