@@ -4,6 +4,7 @@
     "lib": ["dom", "dom.iterable", "esnext"],
     "module": "ESNext",
     "moduleResolution": "node",
-    "jsx": "preserve"
+    "jsx": "preserve",
+    "allowJs": true
   }
 }
