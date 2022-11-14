@@ -15,6 +15,7 @@
     "forceConsistentCasingInFileNames": true,
     "esModuleInterop": true,
     "exactOptionalPropertyTypes": true,
-    "resolveJsonModule": true
+    "resolveJsonModule": true,
+    "removeComments": true
   }
 }
