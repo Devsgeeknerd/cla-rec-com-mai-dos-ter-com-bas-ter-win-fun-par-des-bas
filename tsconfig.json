@@ -21,6 +21,7 @@
     "incremental": true,
     "noEmit": true,
     "noImplicitAny": true,
-    "noImplicitReturns": true
+    "noImplicitReturns": true,
+    "noImplicitThis": true
   }
 }
