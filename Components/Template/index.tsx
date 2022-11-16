@@ -1,4 +1,5 @@
 import { ReactElement } from "react";
+import { Header } from "../Header";
 import { NavBar } from "../NavBar";
 import styles from "./Template.module.css";
 
@@ -9,6 +10,7 @@ interface Props {
 export const Template = ({ children }: Props) => {
   return (
     <div className={styles.container}>
+      <Header />
       <NavBar />
       <main className={styles.main}>{children}</main>
     </div>
