@@ -1,7 +1,7 @@
 export const navigationLinks = [
   { label: "Inicio", path: ["/"] },
   { label: "Sobre", path: ["/about"] },
-  { label: "", path: [""] },
+  { label: "Serviços", path: ["/services"] },
   { label: "", path: [""] },
   { label: "", path: [""] },
 ];
