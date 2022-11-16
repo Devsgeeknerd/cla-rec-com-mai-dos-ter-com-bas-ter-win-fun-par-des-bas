@@ -8,7 +8,7 @@ interface Props {
 export const Template = ({ children }: Props) => {
   return (
     <div className={styles.container}>
-      <main>{children}</main>
+      <main className={styles.main}>{children}</main>
     </div>
   );
 };
