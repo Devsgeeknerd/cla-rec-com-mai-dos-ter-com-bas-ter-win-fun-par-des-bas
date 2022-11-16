@@ -3,5 +3,5 @@ export const navigationLinks = [
   { label: "Sobre", path: ["/about"] },
   { label: "Serviços", path: ["/services"] },
   { label: "Projetos", path: ["/projects"] },
-  { label: "", path: [""] },
+  { label: "Contatos", path: ["/contacts"] },
 ];
