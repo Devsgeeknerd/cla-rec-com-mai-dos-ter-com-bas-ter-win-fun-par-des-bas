@@ -1,4 +1,5 @@
 import { ReactElement } from "react";
+import { Footer } from "../Footer";
 import { Header } from "../Header";
 import { NavBar } from "../NavBar";
 import styles from "./Template.module.css";
@@ -13,6 +14,7 @@ export const Template = ({ children }: Props) => {
       <Header />
       <NavBar />
       <main className={styles.main}>{children}</main>
+      <Footer />
     </div>
   );
 };
